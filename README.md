@@ -1,5 +1,5 @@
 # toggl-take-home
-Contains my submission for toggl's take home assignment for the Data Analyst position.
+Contains my submission for a take home assignment for the Data Analyst position.
 
 The Jupyter notebooks for presentation are contained within the notebooks folder, and they are numbered to reflect the order in which the analysis proceeded.
 
